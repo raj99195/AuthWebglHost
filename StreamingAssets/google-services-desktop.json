@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18082943912",
+    "project_id": "gfgame-176d0",
+    "storage_bucket": "gfgame-176d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18082943912:android:607026bfdc89d23aed439d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.yandretest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYz7xLNenk4ysji-EO6iF1lc-oi8DTQBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
